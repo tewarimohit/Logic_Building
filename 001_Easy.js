@@ -58,6 +58,11 @@ const maxMin2=(num1,num2,num3,one,two,three)=>{
 console.log(`Which number is maximum ?
 Ans:- ${maxMin2(8,23,17,()=>console.log(`Number 1 is Max`),()=>console.log(`Number 2 is Max`),()=>console.log(`Number 3 is Max`))}`);
 
+//Output
+// Number 2 is Max
+// Which number is maximum ?
+// Ans:- undefined
+
 
 //Que 5
 
